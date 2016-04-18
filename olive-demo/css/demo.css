@@ -43,17 +43,17 @@ body {
 .brand {
     width: 840px;
     color: #fff;
-    font-size: 94px;
-    letter-spacing: 0.25em;
+    font-size: 54px;
+    letter-spacing: 0.3em;
     text-align: center;
     /* 텍스트 그림자 설정 */
     /*text-shadow: x축 y축 블러 확산도 색상;*/
-    text-shadow: 0 10px 2px rgba(27,34,26, 0.4);
+    text-shadow: 0 0 10px rgba(27,34,26, 0.9);
     /* 텍스트 회전 변형 */
-    transform: rotate(-42.6deg) scale(0.7);
+    transform: rotate(-42.6deg) scale(0.6);
     /* 장면 전환: transition */
     /*transition: 속성 지속시간 이징(물리곡선) 지연시간;*/
-    transition: color 0.2s linear;
+    transition: all 0.34s linear;
 }
 
 /*상태를 처리하는 가상 클래스
@@ -64,5 +64,7 @@ State Design
 클릭한 상태 :active
 비활성화 상태 */
 .brand:hover {
-    color: #ff0;
+    transform: rotate(0deg) scale(1.56);
+    letter-spacing: -0.02em;
+    text-shadow: 0 30px 6px rgba(27,34,26, 0.45);
 }

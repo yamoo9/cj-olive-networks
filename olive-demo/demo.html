@@ -7,6 +7,40 @@
         <link rel="stylesheet" href="./css/demo.css">
      </head>
      <body>
+        <!-- <audio src="media/pop.mp3" autoplay controls loop></audio> -->
         <h1 class="brand">CJ Olive Networks</h1>
+
+<script>
+// 모던 자바스크립트 패턴
+// 모듈 패턴
+// IIFE 즉시 실행함수
+(function(){
+    'use strict';
+
+    // 오디오 객체 생성
+    // 빌트인 생성자 함수(Class, 설계 도면)
+    // new 생성자(); --> 인스턴스 객체 생성
+    var brand_bgm = new Audio(), brand_el = document.querySelector('.brand');
+
+    // 어떤 노래를 부를지? 소스(Source)를 설정합니다.
+    brand_bgm.setAttribute('src', 'media/pop.mp3');
+    // 서버로부터 음원 데이터를 다운로드 받아 재생 가능한 시점(Event)이 되면 음악을 재생하라.
+    // brand_bgm.addEventListener('canplay', playBGM);
+
+    // 화면에 있는 brand 요소에 사용자가 마우스를 올리면 음악을 재생하라.
+    brand_el.addEventListener('mouseenter', playBGM.bind(brand_bgm));
+
+    // 음악을 재생시키는 함수 작성
+    function playBGM() {
+        // 너는 누구냐?
+        // console.log( 'who?', this );
+        // 야! 음악 재생해!
+        this.play();
+    }
+
+}());
+// 함수 실행
+// callMe();
+</script>
      </body>
  </html>
