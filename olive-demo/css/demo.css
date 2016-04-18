@@ -1,5 +1,5 @@
 /* 웹 폰트 Noto Sans KR */
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url("http://fonts.googleapis.com/earlyaccess/notosanskr.css");
 
 /*CSS 작성 문법*/
 /*
@@ -25,12 +25,10 @@ body {
     justify-content: center;
     align-items: center;
     /*높이 설정*/
-    font-family: 'Noto Sans KR', sans-serif;
     height: 100vh;
     /*배경색 설정*/
     background-color: #3d4c3a;
     /*배경 이미지 설정*/
-    /*background-image: url("./images/bg.jpg");*/
     background-image: url("../images/bg.jpg");
     /*배경 이미지 반복 여부 설정*/
     background-repeat: no-repeat;
@@ -38,6 +36,8 @@ body {
     background-position: center top;
     /*배경 이미지 크기 조정*/
     background-size: cover;
+    /*글꼴 설정*/
+    font-family: 'Noto Sans KR', sans-serif;
 }
 
 /* CJ Olive Networks 브랜드 텍스트 */
