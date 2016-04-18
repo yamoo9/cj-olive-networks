@@ -1,6 +1,15 @@
 /* 웹 폰트 Noto Sans KR */
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 
+/* 사용자가 선택한 텍스트 블록의 스타일 디자인 */
+/* 가상 요소: Pseudo Element */
+::selection {
+    background-color: #ff0;
+    color: #212d23;
+    /*그림자 제거*/
+    text-shadow: none;
+}
+
 /*CSS 작성 문법*/
 /*
     스타일 선언 구문
@@ -35,6 +44,25 @@ body {
     width: 840px;
     color: #fff;
     font-size: 94px;
-    letter-spacing: -0.01em;
+    letter-spacing: 0.25em;
     text-align: center;
+    /* 텍스트 그림자 설정 */
+    /*text-shadow: x축 y축 블러 확산도 색상;*/
+    text-shadow: 0 10px 2px rgba(27,34,26, 0.4);
+    /* 텍스트 회전 변형 */
+    transform: rotate(-42.6deg) scale(0.7);
+    /* 장면 전환: transition */
+    /*transition: 속성 지속시간 이징(물리곡선) 지연시간;*/
+    transition: color 0.2s linear;
+}
+
+/*상태를 처리하는 가상 클래스
+State Design
+기본 상태  :link
+마우스가 올라간 상태 :hover
+키보드 포커싱 상태 :focus
+클릭한 상태 :active
+비활성화 상태 */
+.brand:hover {
+    color: #ff0;
 }
