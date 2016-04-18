@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.sprite-cjon {
+    background: url("../images/sprites/cjon-sprite.png");
+}
+
+.sprite-all-view {
+    width:      675px;
+    height:     781px;
+    border:     1px solid #aaa;
+}
+
+.sprite-cjon-logo {
+    width: 268px;
+    height: 69px;
+}
+
+.sprite-cjon-footer-logo {
+    background-position: 0 -70px;
+    width: 177px;
+    height: 47px;
+}
