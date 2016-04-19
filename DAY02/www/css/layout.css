@@ -1,0 +1,22 @@
+/*! layout.css © yamoo9.net, 2016 */
+body {
+
+    /* 1000px 값이 가로 최대 폭 */
+    max-width: 1000px;
+    max-width: 62.5rem;
+
+    /*가로폭 설정을 유동적으로 변경 가능
+    상대 값인 %를 사용*/
+    width: 90%;
+
+    /* 410px 값이 가로 최소 폭 */
+    min-width: 410px;
+    min-width: 25.625rem;
+    /*
+        공간을 양쪽으로 배분하기 때문에
+        화면 가운데 배치(레이아웃) 설정됨.
+     */
+    margin-left: auto;
+    margin-right: auto;
+
+}

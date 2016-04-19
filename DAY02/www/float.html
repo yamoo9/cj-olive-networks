@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="UTF-8">
+    <title>Float Layout</title>
+    <style>
+        body {
+            margin: 3rem 0;
+        }
+
+        .parent {
+            /*overflow: hidden;*/
+            width: 800px;
+            height: 400px;
+            margin-left: auto;
+            margin-right: auto;
+            border: 1px solid;
+        }
+
+        .child {
+            float: left;
+            width: 200px;
+            height: 200px;
+            margin-left: 10px;
+            margin-right: 10px;
+            /*border: 1px solid #ff0;*/
+        }
+
+        .child1 { background-color: red; }
+        .child2 { background-color: green; }
+        .child3 { background-color: blue; }
+    </style>
+</head>
+<body>
+
+    <div class="parent">
+        <div class="child child1"></div>
+        <p>야무 한글 로렘입숨 로렘입숨이란? 디자인을 위한 더미 텍스트!. 장엄한 내일의 해도 심장, 눈부신 청춘!</p>
+        <div class="child child2"></div>
+        <div class="child child3"></div>
+    </div>
+
+</body>
+</html>
