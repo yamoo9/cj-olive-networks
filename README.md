@@ -8,6 +8,8 @@
 
 ![pocari sweat](https://camo.githubusercontent.com/c5ed2730392b3d138a9a9c4261858f1a00a6fb74/687474703a2f2f79616d6f6f392e6769746875622e696f2f636a2d6f6c6976652d6e6574776f726b732f6173736574732f7277642f504f434152492e6a7067)
 
+<br>
+
 ## 설문
 
 간단한 질문이 포함한 설문을 받아 수업에 참고합니다. [설문](https://goo.gl/forms/8u2snrPnQ77puQ582)  에 응해주세요.
@@ -16,14 +18,25 @@
 
 <br>
 
+## 준비
+
+수업 진행에 필요한 항목들입니다. 제공된 링크를 통해 다운로드 및 설치 또는 가입 해주세요.
+
+항목 | 링크
+--- | ---
+브라우저 | [Chrome](https://www.google.com/chrome/) / [Firefox](http://www.mozilla.com/ko/firefox)
+에디터 | [Visual Studio Code](https://code.visualstudio.com/) / [Atom](https://atom.io/) (택 1)
+소셜 개발 환경 | [codepen.io](https://codepen.io/)
+
 <br>
 
 ## 자료
 
-수업 중 진행된 실습 예제를 업로드하면 페이지 상단 `Clone or download` 메뉴 > `Download ZIP` 버튼을 눌러 다운 받습니다.
+수업 중 진행된 실습 예제를 업로드하면 페이지 상단 `Clone or download` 메뉴 > `Download ZIP` 버튼을 눌러 다운 받습니다. 이미 GitHub 계정이 있는 분은 Fork 하시면 좋겠죠? :-)
 
 <img src="./docs/assets/download.png" alt width="400">
 
+<br>
 <br>
 
 ## 문서
