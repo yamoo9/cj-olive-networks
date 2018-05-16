@@ -24,8 +24,9 @@
 
 항목 | 링크
 --- | ---
-브라우저 | [Chrome](https://www.google.com/chrome/) / [Firefox](http://www.mozilla.com/ko/firefox)
-에디터 | [Visual Studio Code](https://code.visualstudio.com/) / [Atom](https://atom.io/) (택 1)
+브라우저 | [Chrome](https://www.google.com/chrome/) (권장) / [Firefox](http://www.mozilla.com/ko/firefox)
+익스텐션 | [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ko) / [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
+에디터 | [Visual Studio Code](https://code.visualstudio.com/) (권장) / [Sublime Text](https://www.sublimetext.com/) / [Atom](https://atom.io/) / [Brackets](http://brackets.io/) (택 1)
 소셜 개발 환경 | [codepen.io](https://codepen.io/)
 
 <br>
