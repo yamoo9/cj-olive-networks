@@ -8,9 +8,25 @@
 
 ![pocari sweat](https://camo.githubusercontent.com/c5ed2730392b3d138a9a9c4261858f1a00a6fb74/687474703a2f2f79616d6f6f392e6769746875622e696f2f636a2d6f6c6976652d6e6574776f726b732f6173736574732f7277642f504f434152492e6a7067)
 
+## 설문
+
+간단한 질문이 포함한 설문을 받아 수업에 참고합니다. [설문](https://goo.gl/forms/8u2snrPnQ77puQ582)  에 응해주세요.
+
+<img src="docs/assets/survey.jpg" alt width="400">
+
 <br>
 
-## Overview
+<br>
+
+## 자료
+
+수업 중 진행된 실습 예제를 업로드하면 페이지 상단 `Clone or download` 메뉴 > `Download ZIP` 버튼을 눌러 다운 받습니다.
+
+<img src="./docs/assets/download.png" alt width="400">
+
+<br>
+
+## 문서
 
 <img src="https://www.digitalwebmania.com/wp-content/uploads/2018/03/giphy.gif" alt align="right" width="120">
 
@@ -21,8 +37,10 @@
 
 <br>
 
-## Reference
+## 참고
 
 - [웹 디자인 트렌드 2018](https://99designs.com/blog/trends/web-design-trends-2018/)
 - [반응형 웹 디자인 콘텐츠 구성(2013)](https://blog.kulturbanause.de/2013/12/content-choreography-fur-responsive-websites/)
 - [반응형 웹 디자인(2010)](http://alistapart.com/article/responsive-web-design)
+- [웹사이트 템플릿](https://colorlib.com/wp/free-html-website-templates/)
+- [CSS 상대 단위](https://pineco.de/the-relative-units-of-css/)
