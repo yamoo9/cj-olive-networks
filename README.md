@@ -32,16 +32,19 @@
 
 ## 자료
 
-수업 중 진행된 실습 예제를 업로드하면 페이지 상단 `Clone or download` 메뉴 > `Download ZIP` 버튼을 눌러 다운 받습니다. 이미 GitHub 계정이 있는 분은 Fork 하시면 좋겠죠? :-)
+<img align="right" src="./docs/assets/download.png" alt width="320">
 
-<img src="./docs/assets/download.png" alt width="400">
+페이지 상단 `Clone or download` 메뉴 > `Download ZIP` 버튼을 눌러 다운 받습니다. 이미 GitHub 계정이 있는 분은 Fork 하시면 좋겠죠? :-)
 
+<br>
 <br>
 <br>
 
 ## 문서
 
 <img src="https://www.digitalwebmania.com/wp-content/uploads/2018/03/giphy.gif" alt align="right" width="120">
+
+반응형 웹 디자인에 대한 내용을 정리한 문서입니다. 수업 중 또는 수업이 끝난 이후에도 참고해서 읽어보세요.
 
 1. [반응형 웹 디자인](https://github.com/yamoo9/cj-olive-networks/wiki)
 1. [반응형 웹 디자인에 대한 고찰](https://github.com/yamoo9/cj-olive-networks/wiki/%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
