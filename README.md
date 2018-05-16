@@ -44,3 +44,4 @@
 - [반응형 웹 디자인(2010)](http://alistapart.com/article/responsive-web-design)
 - [웹사이트 템플릿](https://colorlib.com/wp/free-html-website-templates/)
 - [CSS 상대 단위](https://pineco.de/the-relative-units-of-css/)
+- [디스플레이, 스크린 & 운영체제 정보](http://vizdevices.yesviz.com/)
