@@ -160,7 +160,7 @@
 	<li><a href="http://gs.statcounter.com" target="_blank">Stat Counter</a></li>
 	<li><a href="https://www.w3counter.com/globalstats.php" target="_blank">W3 Counter</a></li>
 	<li><a href="http://www.internettrend.co.kr/trendForward.tsp" target="_blank">internettrend.co.kr</a></li>
-  <li><a href="http://vizdevices.yesviz.com/" target="_blank">디스플레이, 스크린 & 운영체제 정보</a></li>
+  <li><a href="http://vizdevices.yesviz.com/" target="_blank">디스플레이, 스크린 &amp; 운영체제 정보</a></li>
 	<li><a href="http://viewportsizes.com" target="_blank">viewportsizes.com</a></li>
 	<li><a href="http://troy.labs.daum.net" target="_blank">Troy 서비스</a></li>
 	<li><a href="https://material.io/resizer" target="_blank">resizer</a></li>

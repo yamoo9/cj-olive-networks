@@ -59,6 +59,3 @@
 - [웹 디자인 트렌드 2018](https://99designs.com/blog/trends/web-design-trends-2018/)
 - [반응형 웹 디자인 콘텐츠 구성(2013)](https://blog.kulturbanause.de/2013/12/content-choreography-fur-responsive-websites/)
 - [반응형 웹 디자인(2010)](http://alistapart.com/article/responsive-web-design)
-- [웹사이트 템플릿](https://colorlib.com/wp/free-html-website-templates/)
-- [CSS 상대 단위](https://pineco.de/the-relative-units-of-css/)
-- [디스플레이, 스크린 & 운영체제 정보](http://vizdevices.yesviz.com/)
