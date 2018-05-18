@@ -54,6 +54,14 @@
 
 <br>
 
+## 평가
+
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcAsb2DZd8l-XV6oHdmgvVoxrO8E02MMcNtLY6gTzlzrOb3pL" alt width="100">
+
+[반응형 웹 디자인 교육 학습평가](https://goo.gl/Ri6BqQ)은 20문항 총 200점 만점입니다.<br> 학습한 내용을 상기하여 문제를 풀어봅니다. :-)
+
+<br>
+
 ## 참고
 
 - [웹 디자인 트렌드 2018](https://99designs.com/blog/trends/web-design-trends-2018/)
