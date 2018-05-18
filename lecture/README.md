@@ -6,12 +6,12 @@
 
 ![](../docs/assets/keynote-cover.png)
 
-<br>
+<!-- <br>
 
 ## 영상 강의
 
 - [Flexible Box Layout Module](https://www.youtube.com/playlist?list=PLAl17zBU4FvjhxCVE4SFYxVA2Ydp0badz)
-- [Grid Layout Module](https://www.youtube.com/playlist?list=PLAl17zBU4FvgUAyF8fiQrDeJU1zDdpPeH)
+- [Grid Layout Module](https://www.youtube.com/playlist?list=PLAl17zBU4FvgUAyF8fiQrDeJU1zDdpPeH) -->
 
 <br>
 
