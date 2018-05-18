@@ -8,6 +8,13 @@
 
 <br>
 
+## 영상 강의
+
+- [Flexible Box Layout Module](https://www.youtube.com/playlist?list=PLAl17zBU4FvjhxCVE4SFYxVA2Ydp0badz)
+- [Grid Layout Module](https://www.youtube.com/playlist?list=PLAl17zBU4FvgUAyF8fiQrDeJU1zDdpPeH)
+
+<br>
+
 ## 실습 진행
 
 라이브 강의(또는 [영상 강의](https://fastcampus.teachable.com/p/d76599))를 참고하여 실습을 진행합니다.
