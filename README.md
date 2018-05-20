@@ -51,6 +51,7 @@
 1. [반응형 웹 디자인에 대한 고찰](https://github.com/yamoo9/cj-olive-networks/wiki/%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
 1. [반응형 웹 디자인을 시작하는 방법](https://github.com/yamoo9/cj-olive-networks/wiki/%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 1. [반응형 웹 디자인을 구현하는 방법](https://github.com/yamoo9/cj-olive-networks/wiki/%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95)
+1. [적응형 웹 vs 반응형 웹](https://github.com/yamoo9/cj-olive-networks/wiki/%EC%A0%81%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8-VS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8)
 
 <br>
 
